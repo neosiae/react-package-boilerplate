@@ -1,8 +1,6 @@
-# react-on-intersect 
+# react-package-boilerplate
 
 ## Demo
-
-# react-package-boilerplate
 
 ## Installation
 
