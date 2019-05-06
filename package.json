@@ -20,27 +20,27 @@
     "parser": "babel-eslint"
   },
   "peerDependencies": {
-    "react": "^16.7.0-alpha.2",
-    "react-dom": "^16.7.0-alpha.2"
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
   },
   "devDependencies": {
-    "@babel/cli": "^7.2.0",
-    "@babel/core": "^7.2.2",
-    "@babel/preset-env": "^7.2.0",
+    "@babel/cli": "^7.4.4",
+    "@babel/core": "^7.4.4",
+    "@babel/preset-env": "^7.4.4",
     "@babel/preset-react": "^7.0.0",
-    "babel-core": "^7.0.0-bridge.0",
+    "babel-core": "^6.26.3",
     "babel-eslint": "^10.0.1",
-    "babel-jest": "^23.6.0",
-    "babel-loader": "^8.0.4",
+    "babel-jest": "^24.8.0",
+    "babel-loader": "^8.0.5",
     "gh-pages": "^2.0.1",
     "html-webpack-plugin": "^3.2.0",
-    "jest": "^23.6.0",
-    "react": "^16.7.0-alpha.2",
-    "react-dom": "^16.7.0-alpha.2",
-    "react-testing-library": "^5.4.0",
+    "jest": "^24.8.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-testing-library": "^7.0.0",
     "standard": "^12.0.1",
-    "webpack": "^4.27.1",
-    "webpack-cli": "^3.1.2",
-    "webpack-dev-server": "^3.1.14"
+    "webpack": "^4.30.0",
+    "webpack-cli": "^3.3.2",
+    "webpack-dev-server": "^3.3.1"
   }
 }
